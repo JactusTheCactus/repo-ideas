@@ -1,1 +1,1 @@
-# repo-ideas
+# Repo Ideas
