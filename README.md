@@ -1,5 +1,5 @@
-```toml
-[PICO-8 game]
-genre = "Idle"
-theme = "Colony"
+```yml
+- PICO-8 game
+  genre : "Idle"
+  theme : "Colony"
 ```
