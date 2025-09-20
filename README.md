@@ -1,5 +1,5 @@
 ```yml
-- PICO-8 game
-  genre : "Idle"
-  theme : "Colony"
+- title : PICO-8 game
+  genre : Idle
+  theme : Colony
 ```
