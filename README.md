@@ -1,6 +1,6 @@
 ```yml
 games:
-- title: PICO-8 Game <placeholder>
+- title: <placeholder>PICO-8 Game
   theme: Colony
   genres:
   - Idle
