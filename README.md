@@ -1,3 +1,6 @@
+---
+title: PICO-8 Game
+---
 Thoughts?
 (This isn't being used in a script. This is just markup)
 Any suggestions for a better language than `TOML`?
