@@ -1,5 +1,4 @@
 Thoughts? (These aren't being used in a script. This is just markup)
-- [ ] `TOML`
 ```toml
 [pico-8_game]
 genre = "Idle"
