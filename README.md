@@ -1,6 +1,12 @@
 ```yml
+game: &default
+  title: <TITLE>
+  theme: <THEME>
+  genres:
+  - <GENRES>
 games:
-- title: <placeholder>PICO-8 Game
+- <<: *default
+  title: <placeholder>PICO-8 Game
   theme: Colony
   genres:
   - Idle
