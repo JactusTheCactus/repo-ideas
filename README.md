@@ -4,15 +4,15 @@
   theme : Colony
 ```
 # Skybound Chronicles
-** Core Loop
+## Core Loop
    - Explore floating islands
    - Gather resources
    - Upgrade airship
-** Mechanics
-*** Combat
+## Mechanics
+### Combat
     - Real-time action
     - Combo system
-*** Crafting
+### Crafting
     - Alchemy
     - Blueprint system
 ** Characters
