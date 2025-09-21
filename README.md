@@ -1,7 +1,8 @@
-```
-title: PICO-8 Game
-theme: Colony
-genres:
+```yml
+games:
+- title: PICO-8 Game
+  theme: Colony
+  genres:
   - Idle
   - Incremental
 ```
