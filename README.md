@@ -3,7 +3,6 @@
   genre : Idle
   theme : Colony
 ```
-```org
 * Skybound Chronicles
 ** Core Loop
    - Explore floating islands
@@ -24,4 +23,3 @@
    - Act 1: Escape the Wastes
    - Act 2: Sky Wars
    - Act 3: The Fallen Continent
-```
