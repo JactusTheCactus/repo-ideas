@@ -3,7 +3,7 @@
   genre : Idle
   theme : Colony
 ```
-* Skybound Chronicles
+# Skybound Chronicles
 ** Core Loop
    - Explore floating islands
    - Gather resources
