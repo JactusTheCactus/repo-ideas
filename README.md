@@ -1,5 +1,6 @@
 ---
 title: PICO-8 Game
+theme: Colony
 ---
 Thoughts?
 (This isn't being used in a script. This is just markup)
