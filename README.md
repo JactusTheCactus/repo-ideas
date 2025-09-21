@@ -17,5 +17,7 @@ genres = [
 theme = "Colony"
 ```
 ```kdl
-game {}
+game {
+	title "PICO-8 Game"
+}
 ```
