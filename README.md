@@ -4,8 +4,9 @@
   theme : Colony
 ```
 ```hcl
-resource "aws_instance" "web" {
-  ami           = "ami-123456"
-  instance_type = "t2.micro"
+resource "game" "PICO-8 Game" {
+	title = "Unnamed"
+	genre = "Idle"
+	theme = "Colony"
 }
 ```
