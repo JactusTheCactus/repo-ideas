@@ -9,13 +9,6 @@ game:
   - Idle
   - Incremental
 ```
-# `TOML`
-```toml
-[game]
-title = "PICO-8 Game"
-theme = "Colony"
-genres = ["Idle","Incremental"]
-```
 # `INI`
 ```ini
 [game]
