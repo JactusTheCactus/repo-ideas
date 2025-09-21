@@ -5,11 +5,15 @@ game: &default
   theme: <THEME>
   genres:
   - <GENRES>
+  software:
+  - <SOFTWARE>
 games:
 - <<: *default
-  title: <placeholder>PICO-8 Game
   theme: Colony
   genres:
   - Idle
   - Incremental
+  software:
+  - PICO-8
+  - Linux
 ```
