@@ -1,5 +1,5 @@
 ---
-- title: PICO-8 Game
+title: PICO-8 Game
 theme: Colony
 genres:
   - Idle
