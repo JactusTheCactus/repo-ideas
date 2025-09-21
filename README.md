@@ -16,8 +16,10 @@ resource "game" "pico-8_game" {
 }
 ```
 ```json
-"pico-8_game": {
-	"genre": "Idle",
-	"theme": "Colony"
+{
+	"pico-8_game": {
+		"genre": "Idle",
+		"theme": "Colony"
+	}
 }
 ```
