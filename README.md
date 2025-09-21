@@ -1,16 +1,15 @@
 ```toml
-[PICO-8 Game]
+[pico-8_game]
 genre = "Idle"
-themd = "Colony"
+theme = "Colony"
 ```
 ```yml
-- title : PICO-8 Game
-  genre : Idle
-  theme : Colony
+- pico-8_game
+  genre: Idle
+  theme: Colony
 ```
 ```hcl
 resource "game" "pico-8_game" {
-	title = "Unnamed"
 	genre = "Idle"
 	theme = "Colony"
 }
