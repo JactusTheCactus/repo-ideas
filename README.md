@@ -3,9 +3,9 @@ Thoughts?
 # `YAML`
 ```yml
 game:
-- title: PICO-8 Game
-  theme: Colony
-  genres:
-  - Idle
-  - Incremental
+	- title: PICO-8 Game
+	theme: Colony
+	genres:
+		- Idle
+		- Incremental
 ```
