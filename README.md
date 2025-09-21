@@ -1,5 +1,6 @@
 Thoughts?
 (This isn't being used in a script. This is just markup)
+# `YAML`
 ```yml
 game:
   title: PICO-8 Game
@@ -8,12 +9,14 @@ game:
   - Idle
   - Incremental
 ```
+# `TOML`
 ```toml
 [game]
 title = "PICO-8 Game"
 theme = "Colony"
 genres = ["Idle","Incremental"]
 ```
+# `KDL`
 ```kdl
 game {
 	title "PICO-8 Game"
