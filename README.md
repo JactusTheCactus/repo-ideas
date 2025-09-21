@@ -1,11 +1,6 @@
-Thoughts? (These aren't being used in a script. This is just markup)
+Thoughts? (This isn't being used in a script. This is just markup)
 ```toml
-[pico-8_game]
-genre = "Idle"
+["PICO-8 Game"]
+genres = ["Idle","Incremental"]
 theme = "Colony"
-```
-```yml
-- pico-8_game:
-  genre: Idle
-  theme: Colony
 ```
