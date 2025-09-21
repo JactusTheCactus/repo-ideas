@@ -9,12 +9,6 @@ theme = "Colony"
   genre: Idle
   theme: Colony
 ```
-```hcl
-resource "game" "pico-8_game" {
-	genre = "Idle"
-	theme = "Colony"
-}
-```
 ```json
 {
 	"pico-8_game": {
