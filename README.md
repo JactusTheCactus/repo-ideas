@@ -16,3 +16,6 @@ genres = [
 ]
 theme = "Colony"
 ```
+```kdl
+game {}
+```
