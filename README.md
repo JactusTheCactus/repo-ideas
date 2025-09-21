@@ -19,7 +19,7 @@ theme = "Colony"
 ```kdl
 game {
 	title "PICO-8 Game"
-	theme "Colony"
-	genres "Idle" "Incremental"
+	theme Colony
+	genres Idle Incremental
 }
 ```
