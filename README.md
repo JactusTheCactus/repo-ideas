@@ -5,7 +5,7 @@ genre = "Idle"
 theme = "Colony"
 ```
 ```yml
-- pico-8_game
+- pico-8_game:
   genre: Idle
   theme: Colony
 ```
