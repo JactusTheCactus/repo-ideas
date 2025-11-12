@@ -1,6 +1,11 @@
 ```yml
-- label: elm
+- &entry
+  label: !!str
+  href: !!str
+- <<: *entry
+  label: elm
   href: https://elm-lang.org
-- label: Twine
+- <<: *entry
+  label: Twine
   href: https://twinery.org/cookbook/index.html)
 ```
