@@ -1,6 +1,6 @@
 ```yml
 - &entry
-  label: !!str
+  label: !!str N/A
   href: !!str
 - <<: *entry
   label: elm
