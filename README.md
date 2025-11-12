@@ -1,7 +1,7 @@
 ```yml
 - &entry
   label: !!str N/A
-  href: !!str
+  href: !!str https://www.google.com
 - <<: *entry
   label: elm
   href: https://elm-lang.org
