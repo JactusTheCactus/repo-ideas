@@ -1,6 +1,4 @@
 ```yml
-- label: elm
-  href: https://elm-lang.org
-- label: Twine
-  href: https://twinery.org
+elm: https://elm-lang.org
+Twine: https://twinery.org
 ```
