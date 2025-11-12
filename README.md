@@ -7,5 +7,4 @@
   href: https://elm-lang.org
 - <<: *entry
   label: Twine
-  href: https://twinery.org/cookbook/index.html)
 ```
