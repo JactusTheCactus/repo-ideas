@@ -1,11 +1,6 @@
 ```yml
-- &entry
-  label: !!str
-  href: !!str
-- <<: *entry
-  label: elm
+- label: elm
   href: https://elm-lang.org
-- <<: *entry
-  label: Twine
+- label: Twine
   href: https://twinery.org
 ```
