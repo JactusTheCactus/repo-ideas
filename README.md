@@ -1,4 +1,2 @@
-```yml
-elm: https://elm-lang.org
-Twine: https://twinery.org
-```
+- [elm](https://elm-lang.org)
+- [Twine](https://twinery.org)
