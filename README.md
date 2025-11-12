@@ -1,2 +1,6 @@
-- [`elm`](https://elm-lang.org)
-- [`Twine`](https://twinery.org/cookbook/index.html)
+```yml
+- label: elm
+  href: https://elm-lang.org
+- label: Twine
+  href: https://twinery.org/cookbook/index.html)
+```
